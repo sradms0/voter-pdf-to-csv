@@ -1,0 +1,16 @@
+{
+  "name": "voter-pdf-to-csv",
+  "version": "1.0.0",
+  "description": "Convert voter data from a pdf to a csv file",
+  "main": "voter-pdf-to-csv.js",
+  "dependencies": {
+    "json2csv": "^5.0.1",
+    "pdf.js-extract": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Adams",
+  "license": "ISC"
+}
